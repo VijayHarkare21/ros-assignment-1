@@ -1,0 +1,7 @@
+int64 x
+int64 y
+int64 vx
+int64 vy
+---
+uint8[] xi
+uint8[] yi
