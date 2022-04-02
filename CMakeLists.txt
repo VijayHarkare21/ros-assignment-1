@@ -169,6 +169,7 @@ catkin_install_python(PROGRAMS
   scripts/radius_pub_tb.py
   scripts/tb_server.py
   scripts/tb_client_pub_sub.py
+  scripts/tb_client_pub_sub_inf.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
